@@ -16,5 +16,6 @@
 # in Unix via a file share from Windows, the scripts will work.
 *.sh text eol=lf
 *.bash text eol=lf
+gradlew text eol=lf
 
 
