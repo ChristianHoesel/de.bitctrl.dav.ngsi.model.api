@@ -7,7 +7,7 @@ module.exports = {
   platform: 'github',
   includeForks: true,
   repositories: [
-    'bitctrl/de.bitctrl.dav.rest',
+    'ChristianHoesel/de.bitctrl.dav.ngsi.model.api',
   ],
   packageRules: [
     {
