@@ -38,7 +38,7 @@ dependencies {
 
   implementation 'jakarta.validation:jakarta.validation-api:3.0.2'
   // Required if generating Jackson 2 annotations
-  implementation 'com.fasterxml.jackson.core:jackson-databind:2.13.3'
+  implementation 'com.fasterxml.jackson.core:jackson-databind:2.13.4'
   // Required if generating JodaTime data types
   //implementation 'joda-time:joda-time:2.2'
 }
